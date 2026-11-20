@@ -1,0 +1,10 @@
+version: 1
+frontend:
+  phases:
+    build:
+      commands:
+        - mkdir -p dist && cp index.html dist/
+  artifacts:
+    baseDirectory: dist
+    files:
+      - '**/*'
