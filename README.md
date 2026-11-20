@@ -4,6 +4,8 @@ An old-school first-person shooter that runs in the browser, in the style of ear
 
 **Play:** https://www.stanleyluong.com/games/raycaster
 
+![Retro Raycaster gameplay](screenshots/raycaster_a.jpg)
+
 ## Features
 
 - DDA raycasting renderer at 320×200, scaled up with crisp pixels
