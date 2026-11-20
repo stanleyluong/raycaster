@@ -2,7 +2,7 @@
 
 An old-school first-person shooter that runs in the browser, in the style of early-'90s raycasting games. It's one HTML file of plain JavaScript and Canvas 2D, with no libraries, build step or image files.
 
-**Play:** https://raycaster.stanleyluong.com
+**Play:** https://www.stanleyluong.com/games/raycaster
 
 ## Features
 
